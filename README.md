@@ -1,2 +1,3 @@
 # hello-world
-just another new repository
+Hi,
+I want to use this file to practice R
